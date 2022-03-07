@@ -1,3 +1,3 @@
 # nodejs-streams
 
-Alguns código das aulas do Erick Wendel sobre nodejs stream
+Some code from Erick Wendel's classes on nodejs stream
